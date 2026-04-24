@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 {
   "singleQuote": true,
   "trailingComma": "all"
 }
+=======
+{
+  "singleQuote": true,
+  "trailingComma": "all"
+}
+>>>>>>> c80d19faa7101975f658d81f0382c18302666c64
