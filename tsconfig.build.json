@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 {
   "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "NodeNext",
+    "target": "ES2022",
+    "types": ["node", "jest"]
+  },
   "exclude": ["node_modules", "test", "dist", "**/*spec.ts"]
 }
-=======
-{
-  "extends": "./tsconfig.json",
-  "exclude": ["node_modules", "test", "dist", "**/*spec.ts"]
-}
->>>>>>> c80d19faa7101975f658d81f0382c18302666c64
